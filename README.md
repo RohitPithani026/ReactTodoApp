@@ -23,11 +23,7 @@ A simple and user-friendly **React-based Todo App** designed to help users manag
     `cd ReactTodoApp` 
     
 2.  Install dependencies:
-    
-    bash
-    
-    Copy code
-    
+  
     `npm install` 
     
 3.  Start the development server:
